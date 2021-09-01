@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J? Old Footprint=TE_5148528-1 New Footprint=SAMTEC_TSS-116-04-L-D-RA
+Change Component Comment : Designator=J? Old Comment=5148528-1 New Comment=TSS-116-04-L-D-RA
+Change component parameters: Designator = "J?" ("J?"); Footprint = "TE_5148528-1"; UniqueID = "\HFOOZULI" ("\HFOOZULI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSS-116-04-L-D-RA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Power_Ctrl_Board_SCH

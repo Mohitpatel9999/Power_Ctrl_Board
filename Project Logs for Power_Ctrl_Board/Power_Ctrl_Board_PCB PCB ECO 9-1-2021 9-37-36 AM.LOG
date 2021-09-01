@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=U?
+Change Component Footprint: Designator=K? Old Footprint=FP-T92P7D22-12-MFG New Footprint=FP-T9AS1D22-12-MFG
+Change Component Comment : Designator=K? Old Comment=T92P7D22-12 New Comment=T9AS1D22-12
+Change Managed Component Library Link : Designator=K? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=4203F0E6-E0A3-43FC-957F-7A1A093A8E4E New ItemGUID=DD750D21-50A5-458B-8D9E-570A4EE69430 Old RevisionGUID=A0D8E064-41F9-4639-8964-CC11778F5F87 New RevisionGUID=A6CCD686-912F-479F-BDF4-FFE50C8C01BF
+Change component parameters: Designator = "K?" ("K?"); Footprint = "FP-T92P7D22-12-MFG"; UniqueID = "\WYHFPBFU" ("\WYHFPBFU")
+Change component parameters (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Relay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Coil Power"; Value = "1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Coil Resistance"; Value = "144O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Coil Type"; Value = "Non-Latching"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Coil Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FT9AS1D22-12%7FG%7Fpdf%7FEnglish%7FENG_CD_T9AS1D22-12_G.pdf%7F1-1419104-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "30A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Electromechanical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Relays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "Power Relays"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "RELAY GEN PURPOSE SPST 30A 12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "27.94mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "T9AS1D22-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number Of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/t9as1d22-12-te+connectivity-46521723"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "T9AS1D22-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switching Current"; Value = "30A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°C to +105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
