@@ -1,0 +1,12 @@
+Added Component: Designator=J1(HDR2X16H)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSS-116-04-L-D-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J1-29
+Added Pin To Net: NetName=VCC Pin=J1-30
+Added Pin To Net: NetName=GND Pin=J1-31
+Added Pin To Net: NetName=GND Pin=J1-32
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component J1 TSS-116-04-L-D-RA

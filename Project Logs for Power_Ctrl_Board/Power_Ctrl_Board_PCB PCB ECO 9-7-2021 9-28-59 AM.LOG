@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=+12 Pin=D23-1
+Removed Pin From Net: NetName=+12 Pin=D30-1
+Removed Pin From Net: NetName=+12 Pin=D36-1
+Removed Pin From Net: NetName=+12 Pin=K7-A1
+Removed Pin From Net: NetName=S3_out Pin=K7-B1
+Removed Pin From Net: NetName=S3 Pin=K7-B2
+Removed Pin From Net: NetName=+12 Pin=K8-A1
+Removed Pin From Net: NetName=S4_out Pin=K8-B1
+Removed Pin From Net: NetName=S4 Pin=K8-B2
+Removed Pin From Net: NetName=+12 Pin=K9-A1
+Removed Pin From Net: NetName=S5_out Pin=K9-B1
+Removed Pin From Net: NetName=S5 Pin=K9-B2
+Removed Pin From Net: NetName=+12 Pin=R16-2
+Removed Pin From Net: NetName=+12 Pin=R22-2
+Removed Pin From Net: NetName=+12 Pin=R28-2
+Removed Pin From Net: NetName=R5 Pin=U3-5
+Removed Pin From Net: NetName=R6 Pin=U3-6
+Removed Pin From Net: NetName=R7 Pin=U3-7
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=D22
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=D23
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=D29
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=D30
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=D35
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=D36
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=K7
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=K8
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=K9
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=R16
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=R22
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=R28
+Added Component: Designator=P2(MHDR2X16)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR2X16_CEN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR2X16)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR2X16H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component P2 MHDR2X16
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component P3 Header 16X2A
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component P4 Header 16X2
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component P5 Header 16X2H

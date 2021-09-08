@@ -1,0 +1,228 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=J?-C1
+Change Component Comment : Designator=R7 Old Comment=0, ?, 0805, 1/8W New Comment=CRCW08050000Z0EA
+Change Component Comment : Designator=C1 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C3 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C5 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C9 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C10 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C11 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C15 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C16 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C19 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C20 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C21 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C30 Old Comment=0.1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=R18 Old Comment=1k, 5%, 0805, 1/8W New Comment=CRCW08050000Z0EA
+Change Component Comment : Designator=R24 Old Comment=1k, 5%, 0805, 1/8W New Comment=CRCW08050000Z0EA
+Change Component Comment : Designator=C2 Old Comment=1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C17 Old Comment=1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C22 Old Comment=1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C29 Old Comment=1uF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=R1 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R2 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R3 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R4 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R5 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R6 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R8 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R9 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R10 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R11 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R12 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R13 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R14 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R15 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R16 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R19 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R25 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R29 Old Comment=4.7k, 5%, 0603, 1/10W New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=C4 Old Comment=4.7uF, 50V, 0805, X5R New Comment=C0805C106K8PACTU
+Change Component Comment : Designator=C8 Old Comment=4.7uF, 50V, 0805, X5R New Comment=C0805C106K8PACTU
+Change Component Comment : Designator=C14 Old Comment=4.7uF, 50V, 0805, X5R New Comment=C0805C106K8PACTU
+Change Component Comment : Designator=C23 Old Comment=10nF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C18 Old Comment=10uF, 50V, 1206, X7R New Comment=1206GC102KAT1A
+Change Component Comment : Designator=C24 Old Comment=10uF, 50V, 1206, X7R New Comment=1206GC102KAT1A
+Change Component Comment : Designator=C25 Old Comment=10uF, 50V, 1206, X7R New Comment=1206GC102KAT1A
+Change Component Comment : Designator=C27 Old Comment=10uF, 50V, 1206, X7R New Comment=1206GC102KAT1A
+Change Component Comment : Designator=C12 Old Comment=20pF, 50V, 0603, C0G/NPO New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C13 Old Comment=20pF, 50V, 0603, C0G/NPO New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=R21 Old Comment=22k, 1%, 1206, 1/4W New Comment=RC1206JR-070RL
+Change Component Comment : Designator=R27 Old Comment=22k, 1%, 1206, 1/4W New Comment=RC1206JR-070RL
+Change Component Comment : Designator=C6 Old Comment=22uF, 10V, 1206, X7R New Comment=1206GC102KAT1A
+Change Component Comment : Designator=C7 Old Comment=22uF, 10V, 1206, X7R New Comment=1206GC102KAT1A
+Change Component Comment : Designator=R17 Old Comment=220k, 1%, 1206, 1/4W New Comment=RC1206JR-070RL
+Change Component Comment : Designator=R20 Old Comment=220k, 1%, 1206, 1/4W New Comment=RC1206JR-070RL
+Change Component Comment : Designator=R23 Old Comment=220k, 1%, 1206, 1/4W New Comment=RC1206JR-070RL
+Change Component Comment : Designator=R26 Old Comment=220k, 1%, 1206, 1/4W New Comment=RC1206JR-070RL
+Change Component Comment : Designator=C26 Old Comment=1000pF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=C28 Old Comment=1000pF, 50V, 0603, X7R New Comment=GRM188R60J106ME47D
+Change Component Comment : Designator=X1 Old Comment=J49SMH-A-G-G-K-8M0 New Comment=ABLS2-4.096MHZ-D4Y-T
+Change Component Comment : Designator=D1 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D3 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D4 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D5 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D6 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D8 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D12 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D14 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D15 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D16 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D18 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D20 Old Comment=L29K-G2J1-24-Z New Comment=LTST-C191TBKT
+Change Component Comment : Designator=D11 Old Comment=MMSZ5228BT1G New Comment=MMSZ18T1G
+Change Component Comment : Designator=L2 Old Comment=MMZ1608B102CTA00 New Comment=742792601
+Change Component Comment : Designator=L3 Old Comment=MMZ1608B102CTA00 New Comment=742792601
+Change Component Comment : Designator=L1 Old Comment=NRS5030T100MMGJ New Comment=NRS5030T150MMGJ
+Change Component Comment : Designator=D7 Old Comment=RBR5LAM40ATR New Comment=PMEG3030EP,115
+Change Component Comment : Designator=D10 Old Comment=TPSMB33CA New Comment=SMAJ12CA
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change component parameters: Designator = "U5" ("U5"); Footprint = "OPTO_4N35SM"; UniqueID = "\TKPXEGJZ" ("\TKPXEGJZ")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=4834122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/4N35SM/Fairchild%20Semiconductor/view-part/4834122/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4834122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=4834122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4N35SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/4N35SM/Fairchild%20Semiconductor/view-part/4834122/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "OPTO_4N35SM"; UniqueID = "\LXHOBHKZ" ("\LXHOBHKZ")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=4834122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/4N35SM/Fairchild%20Semiconductor/view-part/4834122/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4834122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=4834122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4N35SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/4N35SM/Fairchild%20Semiconductor/view-part/4834122/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U20(PCBComponent_1)
+Added Pin To Net: NetName=+12 Pin=U20-1
+Added Pin To Net: NetName=GND Pin=U20-2
+Added Pin To Net: NetName=+12 Pin=U20-3
+Added Pin To Net: NetName=+3.3 Pin=U20-4
+Added Pin To Net: NetName=+3.3 Pin=U20-5
+Added Pin To Net: NetName=GND Pin=U20-6
+Change Net Name : Old Net Name=NetJ?_A3 New Net Name=NetJ1_A2
+Change Net Name : Old Net Name=NetJ?_A5 New Net Name=NetJ1_A4
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C1 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C2 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C3 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C4 C0805C106K8PACTU
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C5 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C6 1206GC102KAT1A
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C7 1206GC102KAT1A
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C8 C0805C106K8PACTU
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C9 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C10 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C11 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C12 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C13 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C14 C0805C106K8PACTU
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C15 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C16 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C17 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C18 1206GC102KAT1A
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C19 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C20 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C21 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C22 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C23 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C24 1206GC102KAT1A
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C25 1206GC102KAT1A
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C26 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C27 1206GC102KAT1A
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C28 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C29 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component C30 GRM188R60J106ME47D
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D1 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D2 MBR0520LT1G
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D3 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D4 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D5 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D6 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D7 PMEG3030EP,115
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D8 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D9 MBR0520LT1G
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D10 SMAJ12CA
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D11 MMSZ18T1G
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D12 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D13 MBR0520LT1G
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D14 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D15 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D16 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D17 MBR0520LT1G
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D18 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D19 MBR0520LT1G
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D20 LTST-C191TBKT
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D21 MBR0520LT1G
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D24 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D25 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D26 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D27 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D28 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D31 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D32 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D33 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D34 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component D37 1N4148W-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component F1 0451.500MRL
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component J1 86094327113748ELF
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component J2 MOLEX 39-30-0120, Spare Relays
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component J3 282836-2
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component J T9AS1D22-12MOLEX 39-30-0120, do not populate
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component K1 T9AS1D22-12
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component K2 T9AS1D22-12
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component K3 T9AS1D22-12
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component K4 T9AS1D22-12
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component K5 T9AS1D22-12
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component K6 T9AS1D22-12
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component L1 NRS5030T150MMGJ
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component L2 742792601
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component L3 742792601
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component P1 62201021121
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component P2 61300611121
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component Q1 MMBT3904-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component Q2 MMBT3904-7-F
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R1 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R2 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R3 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R4 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R5 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R6 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R7 CRCW08050000Z0EA
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R8 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R9 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R10 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R11 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R12 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R13 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R14 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R15 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R16 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R17 RC1206JR-070RL
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R18 CRCW08050000Z0EA
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R19 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R20 RC1206JR-070RL
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R21 RC1206JR-070RL
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R23 RC1206JR-070RL
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R24 CRCW08050000Z0EA
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R25 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R26 RC1206JR-070RL
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R27 RC1206JR-070RL
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component R29 ERJ3EKF1002V
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component S1 3-1437566-8
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component S2 3-1437566-8
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component S OS102011MS2QN1
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component U1 ISO1540DR
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component U2 AP63203WU-7
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component U3 ULN2003AD
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component U4 STM32F334C4T6
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component U5 4N35SR2M
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component U6 4N35SR2M
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component U20 3.3V DC_DC Buck
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component X1 ABLS2-4.096MHZ-D4Y-T

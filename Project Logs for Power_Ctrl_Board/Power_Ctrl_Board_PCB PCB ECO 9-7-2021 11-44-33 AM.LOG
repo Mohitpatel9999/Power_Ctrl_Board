@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=J20
+Added Component: Designator=J?(86094327113748ELF)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-8609-2154.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "86094327113748ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "649-869432713748ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/86094327113748ELF?qs=isxS6NDG2Tvinl2bB1GBQA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component J? 86094327113748ELF

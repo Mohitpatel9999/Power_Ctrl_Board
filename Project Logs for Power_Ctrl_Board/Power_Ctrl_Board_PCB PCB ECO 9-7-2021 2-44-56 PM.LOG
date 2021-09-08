@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VCC Pin=J1-29
+Removed Pin From Net: NetName=VCC Pin=J1-30
+Removed Pin From Net: NetName=GND Pin=J1-31
+Removed Pin From Net: NetName=GND Pin=J1-32
+Removed Member From Class: ClassName=Power_Ctrl_Board_SCH Member=J1
+Added Component: Designator=U20(PCBComponent_1 - duplicate1)
+Added Pin To Net: NetName=NetC1_1 Pin=J?-A1
+Added Pin To Net: NetName=NetC1_2 Pin=J?-A7
+Added Pin To Net: NetName=VCC Pin=J?-A29
+Added Pin To Net: NetName=GND Pin=J?-A31
+Added Pin To Net: NetName=NetC1_1 Pin=J?-C1
+Added Pin To Net: NetName=NetC1_2 Pin=J?-C7
+Added Pin To Net: NetName=VCC Pin=J?-C29
+Added Pin To Net: NetName=GND Pin=J?-C31
+Added Pin To Net: NetName=NetJ?_A3 Pin=J?-A3
+Added Pin To Net: NetName=NetJ?_A3 Pin=J?-C3
+Added Pin To Net: NetName=NetJ?_A3 Pin=U1-2
+Added Net: Name=NetJ?_A3
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-C5
+Added Pin To Net: NetName=NetJ?_A5 Pin=U1-3
+Added Net: Name=NetJ?_A5
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component U20 3.3V DC_DC Buck
