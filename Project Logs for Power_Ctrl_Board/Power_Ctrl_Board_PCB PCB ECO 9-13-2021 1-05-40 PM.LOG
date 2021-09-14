@@ -1,0 +1,67 @@
+Change Component Comment : Designator=F1 Old Comment=0451.500MRL New Comment=3A
+Change Component Comment : Designator=C18 Old Comment=1206GC102KAT1A New Comment=10uF, 50V, 1206, X7R
+Change Component Comment : Designator=C24 Old Comment=1206GC102KAT1A New Comment=10uF, 50V, 1206, X7R
+Change Component Comment : Designator=C25 Old Comment=1206GC102KAT1A New Comment=10uF, 50V, 1206, X7R
+Change Component Comment : Designator=C27 Old Comment=1206GC102KAT1A New Comment=10uF, 50V, 1206, X7R
+Change Component Comment : Designator=C6 Old Comment=1206GC102KAT1A New Comment=22uF, 10V, 1206, X7R
+Change Component Comment : Designator=C7 Old Comment=1206GC102KAT1A New Comment=22uF, 10V, 1206, X7R
+Change Component Comment : Designator=L2 Old Comment=742792601 New Comment=1k, 0603
+Change Component Comment : Designator=L3 Old Comment=742792601 New Comment=1k, 0603
+Change Component Comment : Designator=X1 Old Comment=ABLS2-4.096MHZ-D4Y-T New Comment=Crystal
+Change Component Comment : Designator=C8 Old Comment=C0805C106K8PACTU New Comment=4.7uF, 50V, 0805, X5R
+Change Component Comment : Designator=C14 Old Comment=C0805C106K8PACTU New Comment=4.7uF, 50V, 0805, X5R
+Change Component Comment : Designator=R18 Old Comment=CRCW08050000Z0EA New Comment=1k, 5%, 0805, 1/8W
+Change Component Comment : Designator=R24 Old Comment=CRCW08050000Z0EA New Comment=1k, 5%, 0805, 1/8W
+Change Component Comment : Designator=R1 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R2 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R3 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R4 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R5 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R6 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R8 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R9 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R10 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R11 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R12 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R13 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R14 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R15 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R16 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R19 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R25 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=R29 Old Comment=ERJ3EKF1002V New Comment=4.7k, 5%, 0603, 1/10W
+Change Component Comment : Designator=C3 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C9 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C10 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C11 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C15 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C16 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C19 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C20 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C21 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C30 Old Comment=GRM188R60J106ME47D New Comment=0.1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C17 Old Comment=GRM188R60J106ME47D New Comment=1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C22 Old Comment=GRM188R60J106ME47D New Comment=1uF, 50V, 0603, X7R
+Change Component Comment : Designator=C23 Old Comment=GRM188R60J106ME47D New Comment=10nF, 50V, 0603, X7R
+Change Component Comment : Designator=C12 Old Comment=GRM188R60J106ME47D New Comment=20pF, 50V, 0603, C0G/NPO
+Change Component Comment : Designator=C13 Old Comment=GRM188R60J106ME47D New Comment=20pF, 50V, 0603, C0G/NPO
+Change Component Comment : Designator=C29 Old Comment=GRM188R60J106ME47D New Comment=22uF, 10V, 1206, X7R
+Change Component Comment : Designator=C26 Old Comment=GRM188R60J106ME47D New Comment=1000pF, 50V, 0603, X7R
+Change Component Comment : Designator=C28 Old Comment=GRM188R60J106ME47D New Comment=1000pF, 50V, 0603, X7R
+Change Component Comment : Designator=D1 Old Comment=LTST-C191TBKT New Comment=LED
+Change Component Comment : Designator=D8 Old Comment=LTST-C191TBKT New Comment=LED
+Change Component Comment : Designator=D12 Old Comment=LTST-C191TBKT New Comment=LED
+Change Component Comment : Designator=D16 Old Comment=LTST-C191TBKT New Comment=LED
+Change Component Comment : Designator=D18 Old Comment=LTST-C191TBKT New Comment=LED
+Change Component Comment : Designator=D20 Old Comment=LTST-C191TBKT New Comment=LED
+Change Component Comment : Designator=D11 Old Comment=MMSZ18T1G New Comment=3.9V
+Change Component Comment : Designator=L1 Old Comment=NRS5030T150MMGJ New Comment=PowerCoil
+Change Component Comment : Designator=D7 Old Comment=PMEG3030EP,115 New Comment=60V, 5A
+Change Component Comment : Designator=R21 Old Comment=RC1206JR-070RL New Comment=22k, 1%, 1206, 1/4W
+Change Component Comment : Designator=R27 Old Comment=RC1206JR-070RL New Comment=22k, 1%, 1206, 1/4W
+Change Component Comment : Designator=R17 Old Comment=RC1206JR-070RL New Comment=220k, 1%, 1206, 1/4W
+Change Component Comment : Designator=R20 Old Comment=RC1206JR-070RL New Comment=220k, 1%, 1206, 1/4W
+Change Component Comment : Designator=R23 Old Comment=RC1206JR-070RL New Comment=220k, 1%, 1206, 1/4W
+Change Component Comment : Designator=R26 Old Comment=RC1206JR-070RL New Comment=220k, 1%, 1206, 1/4W
+Change Component Comment : Designator=D10 Old Comment=SMAJ12CA New Comment=Littelfuse TPSMB33CA
+Change Component Comment : Designator=J Old Comment=T9AS1D22-12MOLEX 39-30-0120, do not populate New Comment=12MOLEX 39-30-0120, do not populate
