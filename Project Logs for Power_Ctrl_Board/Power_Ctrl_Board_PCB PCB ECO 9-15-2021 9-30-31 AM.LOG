@@ -1,0 +1,137 @@
+Removed Pin From Net: NetName=L1 Pin=J-1
+Removed Pin From Net: NetName=L1_out Pin=J-2
+Removed Pin From Net: NetName=N1 Pin=J-3
+Removed Pin From Net: NetName=N1_out Pin=J-4
+Removed Pin From Net: NetName=L2 Pin=J-5
+Removed Pin From Net: NetName=L2_out Pin=J-6
+Removed Pin From Net: NetName=N2 Pin=J-7
+Removed Pin From Net: NetName=N2_out Pin=J-8
+Removed Pin From Net: NetName=+12 Pin=K5-A1
+Removed Pin From Net: NetName=NetD18_1 Pin=K5-A2
+Removed Pin From Net: NetName=+12 Pin=K6-A1
+Removed Pin From Net: NetName=NetD20_1 Pin=K6-A2
+Change Component Footprint: Designator=K5 Old Footprint=FP-T9AS1D22-12-MFG New Footprint=PNSC-LZ-8-2880x1250x1570_V
+Change Component Footprint: Designator=K6 Old Footprint=FP-T9AS1D22-12-MFG New Footprint=PNSC-LZ-8-2880x1250x1570_V
+Change Component Comment : Designator=K5 Old Comment=T9AS1D22-12 New Comment=ALZ11B12
+Change Component Comment : Designator=K6 Old Comment=T9AS1D22-12 New Comment=ALZ11B12
+Change Managed Component Library Link : Designator=K5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DD750D21-50A5-458B-8D9E-570A4EE69430 New ItemGUID=0B1E3830-F1E4-4EFB-BDFD-80E247EEF680 Old RevisionGUID=A6CCD686-912F-479F-BDF4-FFE50C8C01BF New RevisionGUID=6A624A6E-0C57-4034-8D7B-5D194251FCD1
+Change Managed Component Library Link : Designator=K6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DD750D21-50A5-458B-8D9E-570A4EE69430 New ItemGUID=0B1E3830-F1E4-4EFB-BDFD-80E247EEF680 Old RevisionGUID=A6CCD686-912F-479F-BDF4-FFE50C8C01BF New RevisionGUID=6A624A6E-0C57-4034-8D7B-5D194251FCD1
+Change component parameters: Designator = "K5" ("K5"); Footprint = "FP-T9AS1D22-12-MFG"; UniqueID = "\HSBFLJWS" ("\HSBFLJWS")
+Change component parameters (AddParameter): Name = "Coil Voltage"; Value = "12 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www3.panasonic.biz/ac/ae/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lz.pdf?f_cd=300372"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lz.pdf?f_cd=300372"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "201402-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "1x10^5 (N.O.), 5x10^4 (N.C.)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Switching Current"; Value = "16 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Switching Voltage"; Value = "440 V AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life(Min.operation)"; Value = "1x10^7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Operating Power"; Value = "400 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Through Hole Terminal Package, Body 28.8 x 12.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "LZ-8-2880x1250x1570"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "ASCTB203E, 02/2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Carton, Case"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "ALZ11B12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pb-Free"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "LZ Relays"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K6" ("K6"); Footprint = "FP-T9AS1D22-12-MFG"; UniqueID = "\YYXHGHVJ" ("\YYXHGHVJ")
+Change component parameters (AddParameter): Name = "Coil Voltage"; Value = "12 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www3.panasonic.biz/ac/ae/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lz.pdf?f_cd=300372"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lz.pdf?f_cd=300372"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "201402-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "1x10^5 (N.O.), 5x10^4 (N.C.)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Switching Current"; Value = "16 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Switching Voltage"; Value = "440 V AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life(Min.operation)"; Value = "1x10^7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Operating Power"; Value = "400 mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Through Hole Terminal Package, Body 28.8 x 12.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "LZ-8-2880x1250x1570"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "ASCTB203E, 02/2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Carton, Case"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "ALZ11B12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pb-Free"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "LZ Relays"; VariantName = "[No Variations]"
+Added Component: Designator=J4(TE_1-1586038-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-1586038-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1586038-2/TE%20Connectivity%20AMP%20Connectors/view-part/2360872/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=N2_out Pin=J4-1
+Added Pin To Net: NetName=N2_out Pin=J4-2
+Added Pin To Net: NetName=N2 Pin=J4-3
+Added Pin To Net: NetName=N2 Pin=J4-4
+Added Pin To Net: NetName=L2_out Pin=J4-5
+Added Pin To Net: NetName=L2_out Pin=J4-6
+Added Pin To Net: NetName=L2 Pin=J4-7
+Added Pin To Net: NetName=L2 Pin=J4-8
+Added Pin To Net: NetName=L1 Pin=J-5
+Added Pin To Net: NetName=L1 Pin=J-6
+Added Pin To Net: NetName=L1_out Pin=J-7
+Added Pin To Net: NetName=L1_out Pin=J-8
+Added Pin To Net: NetName=N1 Pin=J-9
+Added Pin To Net: NetName=N1 Pin=J-10
+Added Pin To Net: NetName=N1_out Pin=J-11
+Added Pin To Net: NetName=N1_out Pin=J-12
+Added Pin To Net: NetName=NetD18_1 Pin=K5-1
+Added Pin To Net: NetName=+12 Pin=K5-8
+Added Pin To Net: NetName=NetD20_1 Pin=K6-1
+Added Pin To Net: NetName=+12 Pin=K6-8
+Added Pin To Net: NetName=NetJ4_9 Pin=J4-9
+Added Pin To Net: NetName=NetJ4_9 Pin=J4-10
+Added Net: Name=NetJ4_9
+Added Pin To Net: NetName=NetJ4_11 Pin=J4-11
+Added Pin To Net: NetName=NetJ4_11 Pin=J4-12
+Added Net: Name=NetJ4_11
+Added Pin To Net: NetName=NetJ_1 Pin=J-1
+Added Pin To Net: NetName=NetJ_1 Pin=J-2
+Added Net: Name=NetJ_1
+Added Pin To Net: NetName=NetJ_3 Pin=J-3
+Added Pin To Net: NetName=NetJ_3 Pin=J-4
+Added Net: Name=NetJ_3
+Added Pin To Net: NetName=S1_COM Pin=J2-5
+Added Pin To Net: NetName=S1_COM Pin=J2-6
+Added Pin To Net: NetName=S1_COM Pin=K5-3
+Added Pin To Net: NetName=S1_COM Pin=K5-6
+Added Net: Name=S1_COM
+Added Pin To Net: NetName=S1_NC Pin=J2-1
+Added Pin To Net: NetName=S1_NC Pin=J2-2
+Added Pin To Net: NetName=S1_NC Pin=K5-2
+Added Pin To Net: NetName=S1_NC Pin=K5-7
+Added Pin To Net: NetName=S1_NC Pin=K6-2
+Added Pin To Net: NetName=S1_NC Pin=K6-7
+Added Net: Name=S1_NC
+Added Pin To Net: NetName=S1_NO Pin=J2-3
+Added Pin To Net: NetName=S1_NO Pin=J2-4
+Added Pin To Net: NetName=S1_NO Pin=K5-4
+Added Pin To Net: NetName=S1_NO Pin=K5-5
+Added Net: Name=S1_NO
+Added Pin To Net: NetName=S2_COM Pin=J2-11
+Added Pin To Net: NetName=S2_COM Pin=J2-12
+Added Pin To Net: NetName=S2_COM Pin=K6-3
+Added Pin To Net: NetName=S2_COM Pin=K6-6
+Added Net: Name=S2_COM
+Added Pin To Net: NetName=S2_NC Pin=J2-7
+Added Pin To Net: NetName=S2_NC Pin=J2-8
+Added Net: Name=S2_NC
+Added Pin To Net: NetName=S2_NO Pin=J2-9
+Added Pin To Net: NetName=S2_NO Pin=J2-10
+Added Pin To Net: NetName=S2_NO Pin=K6-4
+Added Pin To Net: NetName=S2_NO Pin=K6-5
+Added Net: Name=S2_NO
+Added Member To Class: ClassName=Power_Ctrl_Board_SCH Member=Component J4 12MOLEX 39-30-0120, do not populate
