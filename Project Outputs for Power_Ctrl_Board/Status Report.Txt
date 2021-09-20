@@ -1,0 +1,36 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Power_Ctrl_Board.PrjPcb]
+   Generated File[Power_Ctrl_Board_PCB.GTO]
+   Generated File[Power_Ctrl_Board_PCB.GTP]
+   Generated File[Power_Ctrl_Board_PCB.GTS]
+   Generated File[Power_Ctrl_Board_PCB.GTL]
+   Generated File[Power_Ctrl_Board_PCB.GP1]
+   Generated File[Power_Ctrl_Board_PCB.GP2]
+   Generated File[Power_Ctrl_Board_PCB.GBL]
+   Generated File[Power_Ctrl_Board_PCB.GBS]
+   Generated File[Power_Ctrl_Board_PCB.GBP]
+   Generated File[Power_Ctrl_Board_PCB.GBO]
+   Generated File[Power_Ctrl_Board_PCB.GM1]
+   Generated File[Power_Ctrl_Board_PCB.GM2]
+   Generated File[Power_Ctrl_Board_PCB.GM3]
+   Generated File[Power_Ctrl_Board_PCB.GM4]
+   Generated File[Power_Ctrl_Board_PCB.GM5]
+   Generated File[Power_Ctrl_Board_PCB.GM6]
+   Generated File[Power_Ctrl_Board_PCB.GM7]
+   Generated File[Power_Ctrl_Board_PCB.GM8]
+   Generated File[Power_Ctrl_Board_PCB.GM9]
+   Generated File[Power_Ctrl_Board_PCB.GM13]
+   Generated File[Power_Ctrl_Board_PCB.GM15]
+   Generated File[Power_Ctrl_Board_PCB.GKO]
+   Generated File[Power_Ctrl_Board_PCB.GPT]
+   Generated File[Power_Ctrl_Board_PCB.GPB]
+   Generated File[Power_Ctrl_Board_PCB.RUL]
+   Generated File[Power_Ctrl_Board_PCB.EXTREP]
+   Generated File[Power_Ctrl_Board_PCB.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 11:25:24 AM On 9/20/2021
